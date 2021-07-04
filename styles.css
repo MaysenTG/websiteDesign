@@ -1,0 +1,100 @@
+* {
+  font-family: "Nunito Sans", sans-serif;
+  box-sizing: border-box;
+}
+.style-box {
+  width: 80%;
+  border: 2px solid Gray;
+  margin: 30px auto;
+}
+
+#main-title {
+  text-align: center;
+}
+
+.style-name {
+  margin: 30px 15px;
+  font-size: 25px;
+}
+
+.boxes {
+  width: 340px;
+  height: 110px;
+  margin: 15px 5px;
+  display: inline-block;
+  text-align: center;
+}
+
+#beige {
+  background-color: #efd9ca;
+}
+
+#blue {
+  background-color: #2d5dcc;
+}
+
+#pink {
+  background-color: #d957d9;
+}
+
+#green {
+  background-color: #4fe0b0;
+}
+
+#colour-text {
+  position: relative;
+  top: 15px;
+}
+
+#font-title {
+  font-size: 25px;
+}
+
+.font-box {
+  width: 500px;
+  display: inline-block;
+  padding: 15px;
+}
+
+#source-code-pro p {
+  font-family: "Source Code Pro", monospace;
+}
+#bold {
+  font-weight: bold;
+}
+
+#italics {
+  font-style: italic;
+}
+
+#nunito-sans p {
+  font-family: "Nunito", sans-serif;
+}
+
+#poppins p {
+  font-family: "Poppins", sans-serif;
+}
+
+#h1-style,
+#h2-style,
+#p-style {
+  padding: 0 0 0 15px;
+}
+
+#h1-style h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+}
+
+#h2-style h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+#p-style h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
